@@ -37,10 +37,11 @@ Here’s a preview of the landing page:
 
 ![giphy](https://github.com/user-attachments/assets/80e0724e-c1dc-42f9-8a1a-e3896dd106dc)     
 
-    Fork this repository.
-    Create a new branch for your changes (git checkout -b feature-branch).
-    Make your changes and commit them (git commit -m 'Add feature').
-    Push to your branch (git push origin feature-branch).
-    Open a pull request with a clear description of the changes.   
+###  Fork this repository.
+### Create a new branch for your changes 
+git checkout -b feature-branch
+### Make your changes and commit them (git commit -m 'Add feature').
+### Push to your branch (git push origin feature-branch).
+### Open a pull request with a clear description of the changes.   
 
    
