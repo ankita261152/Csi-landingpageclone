@@ -2,7 +2,12 @@
 
 ## Description
 This project is a clone of a CSI-ACE 24-25' website's landing page, built using **HTML** and **CSS**. The goal is to replicate the design and layout of the original landing page while practicing front-end development skills.
+### HTML CSS
+![giphy1](https://github.com/user-attachments/assets/23a56b37-3680-4cc0-9bf0-a9269afb4087)
 
+
+## website
+## https://www.csiace.com/
 ![Screenshot 2024-10-05 at 12-47-45 CSI-ACE](https://github.com/user-attachments/assets/d360f313-4400-466a-8c1d-125a3518a58c)
 
 ## Table of Contents
@@ -28,7 +33,9 @@ This project demonstrates the use of HTML and CSS to build a static landing page
 Here’s a preview of the landing page:
 ## Contributing
 
-If you'd like to contribute to this project:
+### If you'd like to contribute to this project:
+
+![giphy](https://github.com/user-attachments/assets/80e0724e-c1dc-42f9-8a1a-e3896dd106dc)     
 
     Fork this repository.
     Create a new branch for your changes (git checkout -b feature-branch).
