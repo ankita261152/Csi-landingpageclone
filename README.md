@@ -3,6 +3,8 @@
 ## Description
 This project is a clone of a CSI-ACE 24-25' website's landing page, built using **HTML** and **CSS**. The goal is to replicate the design and layout of the original landing page while practicing front-end development skills.
 
+![Screenshot 2024-10-05 at 12-47-45 CSI-ACE](https://github.com/user-attachments/assets/d360f313-4400-466a-8c1d-125a3518a58c)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
