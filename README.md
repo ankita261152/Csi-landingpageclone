@@ -7,8 +7,12 @@ This project is a clone of a CSI-ACE 24-25' website's landing page, built using 
 
 
 ## website
-## https://www.csiace.com/
-![Screenshot 2024-10-05 at 12-47-45 CSI-ACE](https://github.com/user-attachments/assets/d360f313-4400-466a-8c1d-125a3518a58c)
+## https://www.csiace.com/bootcamp
+
+![Screenshot 2024-10-06 at 18-15-29 CSI-ACE](https://github.com/user-attachments/assets/95f4ba28-dbb2-4f42-929b-b36f72136329)
+
+## figma 
+https://www.figma.com/design/Tj61YS4Hv8Fsssv6FjFSSk/MOCK?node-id=144-626&t=c6YkTrzdWvHvuyhA-1
 
 ## Table of Contents
 - [Installation](#installation)
