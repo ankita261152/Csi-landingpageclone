@@ -22,10 +22,10 @@ https://www.figma.com/design/Tj61YS4Hv8Fsssv6FjFSSk/MOCK?node-id=144-626&t=c6YkT
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/username/landing-page-clone.git
+    https://github.com/Siddesh755/Csi-landingpageclone.git
 2. Navigate into the project directory:
    ```bash
-   cd landing-page-clone
+   cd Csi-landing-page-clone
 3. Open index.html in your browser:
    You can directly open the file by double-clicking index.html or using this command:
    ```bash
